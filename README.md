@@ -63,6 +63,8 @@ This guide will help students create a **Virtual Machine (VM)** on **Microsoft A
   ssh username@public-ip  
 -  Windows VM: Use Remote Desktop (RDP)
 
+---
+
 💡 Tips & Tricks
 
 • Check your Azure credits (students get $100 free for 12 months).
